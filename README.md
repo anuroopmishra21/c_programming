@@ -1,1 +1,1 @@
-# c_programming
+# Practice codes for C
